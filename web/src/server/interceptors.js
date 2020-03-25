@@ -1,5 +1,6 @@
 import axios from 'axios';
-import createHistory from 'history/createHashHistory';
+// import createHistory from 'history/createHashHistory';
+const createHistory = require('history').createHashHistory
 
 const history = createHistory()
 
