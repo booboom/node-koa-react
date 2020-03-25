@@ -1,0 +1,30 @@
+.setting-page {
+
+  .content {
+    width: 80%;
+    margin: 20px auto;
+  }
+
+  .setting-card {
+    margin-bottom: 20px;
+
+    .setting-form {
+      padding: 20px 0 0;
+    }
+  }
+
+  .ant-card-body {
+    padding: 0;
+  }
+
+  .ant-card-head {
+    background: #eaecec;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+  }
+
+  .ant-card-bordered {
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+  }
+}
